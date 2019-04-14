@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speech and Text</string>
+    <string name="hint">Press mic to start</string>
+    <string name="startText">Welcome! How may i help you?</string>
+</resources>
